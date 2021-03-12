@@ -3,4 +3,4 @@
 
 This project focuses on using logistic regression implemented from scratch using NumPy and JAX and extending it to accurately predict the probability of a shot in football resulting in a goal at the moment of the shot being taken. We extend our models by boosting logistic regression models using LogitBoost, and by introducing per-player latent variables which represent the player's ability to score from a specific type of shot.
 
-This project was created as part of JSC370: Data Science II at the University of Toronto by Karl Hendrik Nurmeots and Samuel Vedrik.
+This project was created as part of JSC370: Data Science II at the University of Toronto by Karl Hendrik Nurmeots and Samuel Vedrik. The starter code for the project was created by David Duvenaud and Harsh Panchal.
